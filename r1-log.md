@@ -10,3 +10,8 @@ Started my refresher by running my 2019 vue project which was a food recipe web 
 PS. Will host my project to netlify or github pages tomorrow. 
 
 ### R1D2
+Just finished the basic course for creating a landing page. This will be a good start for my css skills. Will start to create our project ASAP.
+
+
+### R1D3 
+Started react 2 crash course videos and will create my own project after understanding this course.
