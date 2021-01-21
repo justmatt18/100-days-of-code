@@ -15,3 +15,6 @@ Just finished the basic course for creating a landing page. This will be a good 
 
 ### R1D3 
 Started react 2 crash course videos and will create my own project after understanding this course.
+
+### R1D4
+Watched a tutorial on youtube creating a landing page. Added some sections for menu and footer. Need to work more in css cuz' it's giving me a hard time designing :D
