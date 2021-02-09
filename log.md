@@ -96,3 +96,35 @@
 **Thoughts:** Need to finish this ASAP in order to apply for an internship to village 88.
 
 **Hacker Hero** [website](https://www.hackerhero.com/learn-to-code/values-greater-than-second-generalized)
+
+### Day 19: February 5, 2021
+
+##### (Learn to Code + Basic Algorithm)
+
+**Today's Progress** Finished Learn to Code course using Javascript and will finish this today or tomorrow the Basic Algorithm course in Hacker Hero.
+
+**Thoughts** It is a good way also to refresh my basics specially array manipulation.
+
+### Day 20: February 6, 2021
+
+##### (Basic Algorithm)
+
+**Today's Progress** I'm halfway in finishing the course.
+
+**Thoughts** It's a challenging course because I don't know some of the problems yet and how to solve it.
+
+### Day 21: February 7, 2021
+
+##### (Material UI or React-Bootstrap)
+
+**Today's Progress** Been looking some projects and learning the basics for my new personal project which is using an external API.
+
+**Thoughts** I think i'll stick to react-bootstrap as I can understand the docs better. PS. I also tryna want to try the raw materialize-css.
+
+### Day 22: Februrary 8, 2021
+
+##### (Styled Components - react useSuperPower())
+
+**Today's Progress** Had an extensive tutorial by Ben Awad in his yotuube channel. Learning hooks and understanding how to use it.
+
+**Thoughts** I have now a clearer understanding about the useEffect hook and other useful useSuperPower() hooks. Will dig deeper to redux soon after trying some personal projects.
