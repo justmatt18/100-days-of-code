@@ -128,3 +128,11 @@
 **Today's Progress** Had an extensive tutorial by Ben Awad in his yotuube channel. Learning hooks and understanding how to use it.
 
 **Thoughts** I have now a clearer understanding about the useEffect hook and other useful useSuperPower() hooks. Will dig deeper to redux soon after trying some personal projects.
+
+### Day 23: February 9, 2021
+
+##### (Basic Algorithm)
+
+**Today's Progress** I'm halfway done with 19/29 solved problems from hacker hero.
+
+**Thougt's** I can now explore more about array methods or refactor my code for better/faster solution.
