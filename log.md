@@ -136,3 +136,19 @@
 **Today's Progress** I'm halfway done with 19/29 solved problems from hacker hero.
 
 **Thougt's** I can now explore more about array methods or refactor my code for better/faster solution.
+
+### Day 24: February 10, 2021
+
+##### (Basic Algorithm)
+
+**Today's Progress** I'm almost done with 22/29 solved problems from hacker hero.
+
+**Thougt's** I can now explore more about array methods or refactor my code for better/faster solution.
+
+### Day 25: February 11, 2021
+
+##### (Basic Algorithm)
+
+**Today's Progress** I'm almost done with 26/29 solved problems from hacker hero.
+
+**Thougt's** I've been engaging problems that always involves arrays. Next problems will be about two-dimensional arrays..
