@@ -14,7 +14,7 @@
 
 **Today's Progress**: Created a Landing page based on the tutorial using only HTML and CSS.
 
-**Thoughts:** It's really a good way to have this kind of refesher projects to get back on track ASAP. Will start our react project this week.
+**Thoughts:** Its really a good way to have this kind of refesher projects to get back on track ASAP. Will start our react project this week.
 
 ### Day 2: January 20, 2021
 
@@ -111,7 +111,7 @@
 
 **Today's Progress** I'm halfway in finishing the course.
 
-**Thoughts** It's a challenging course because I don't know some of the problems yet and how to solve it.
+**Thoughts** Its a challenging course because I don't know some of the problems yet and how to solve it.
 
 ### Day 21: February 7, 2021
 
@@ -135,7 +135,7 @@
 
 **Today's Progress** I'm halfway done with 19/29 solved problems from hacker hero.
 
-**Thougt's** I can now explore more about array methods or refactor my code for better/faster solution.
+**Thougts** I can now explore more about array methods or refactor my code for better/faster solution.
 
 ### Day 24: February 10, 2021
 
@@ -143,7 +143,7 @@
 
 **Today's Progress** I'm almost done with 22/29 solved problems from hacker hero.
 
-**Thougt's** I can now explore more about array methods or refactor my code for better/faster solution.
+**Thougts** I can now explore more about array methods or refactor my code for better/faster solution.
 
 ### Day 25: February 11, 2021
 
@@ -151,4 +151,28 @@
 
 **Today's Progress** I'm almost done with 26/29 solved problems from hacker hero.
 
-**Thougt's** I've been engaging problems that always involves arrays. Next problems will be about two-dimensional arrays..
+**Thougts** I've been engaging problems that always involves arrays. Next problems will be about two-dimensional arrays..
+
+### Day 26: February 12, 2021
+
+##### (Basic Algorithm)
+
+**Today's Progress** I'm done with the Basic Algorithm course.
+
+**Thougts**Learning the basics is important especially array methods and string manipulation.
+
+### Day 27: February 11, 2021
+
+##### (React JS + MEALDB API)
+
+**Today's Progress** Created a boilderplate for my materialize-css and react js project.
+
+**Thougts** I want to learn more first about using react before diving to other css frameworks suck as material-ui,react-bootstrap, react-materialize, tailwindCSS etc..
+
+### Day 28: February 14, 2021 (/Happy Valentines/)
+
+##### (React JS Project)
+
+**Today's Progress** Added some components for my homepage.
+
+**Toughts**I'm enjoying this project because I love using materialize css and by that it will boost my productivity in learning react js.
