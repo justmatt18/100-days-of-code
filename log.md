@@ -176,3 +176,25 @@
 **Today's Progress** Added some components for my homepage.
 
 **Toughts**I'm enjoying this project because I love using materialize css and by that it will boost my productivity in learning react js.
+
+### Day 29: February 15, 2021
+
+##### (Food Recipe App)
+
+**Today's Progress** Added some features to the homepage
+
+**Thoughts** React JS is fun and I can easily resuse component anytime I want to
+
+### Day 30: February 16, 2021
+
+##### (Food Recipe App)
+
+**Today's Progress** Added new pages to the project (Meal Info, Ingredients + Meal, Search Results)
+
+**Thoughts** React JS is fun and I can easily resuse component anytime I want to
+
+### Day 30-1: February 17-18, 2021
+
+**Today's Progress** Addedd new pages and other features.
+
+**Thoughts** React JS is fun and I can easily resuse component anytime I want to
